@@ -1,1 +1,3 @@
-# api_tesing
+# Basic API tests
+
+#use virt env to run 
